@@ -98,4 +98,6 @@ How attackers identify targets
 
 Most importantly:
 
+
 👉 I moved from theory → real hands-on cybersecurity practice
+![image alt](https://github.com/ibehpharrel/Ironhack-Bootcamp-Cyber-Security-2026/blob/1f7172a16d2a19f3530c829c403335ac08b740ed/IMG_4641.jpeg)
